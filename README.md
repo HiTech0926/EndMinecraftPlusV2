@@ -1,6 +1,6 @@
 # EndMinecraftPlusV2
 ___
-### 重构完成！新版本发布~
+### 出于某些原因，此项目不再维护。
 ___
 ### EndMinecraftPlusV2 - EMP重制版！
 ### 支持Minecraft 1.7.2-1.20.4
